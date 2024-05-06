@@ -1,0 +1,70 @@
+why choose us-section:
+colors used:
+#f9fbfe
+#183b56
+#5a7184
+#e5eaf4
+#323f4b
+#7b8794
+
+images:
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-serve.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/fruits-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/offers-img.png
+
+
+
+explore-menu section:
+colors:
+#183b56
+#323f4b
+#d0b200
+
+images:
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-ginger-fried-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-veg-starters-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-soup-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-grilled-seafood-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-hyderabadi-biryani-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-mushroom-noodles-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-gluten-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-coffee-bourbon-img.png
+
+
+healthy-food, delivery and payment:
+colors:
+ #f9fbfe
+ #183b56
+ #5a7184
+ #d0b200
+
+ images:
+ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/healthy-food-plate-img.png
+ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/delivery-payment-section-img.png
+ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/visa-card-img.png
+ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/master-card-img.png
+ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/paypal-card-img.png
+ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/american-express-img.png
+
+
+ thanks giving:
+ colors:
+ #d0b2001a
+ #183b56
+ #5a7184
+ #d0b200
+
+ images:
+ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/thanking-customers-section-img.png
+
+follow Us :
+colors:
+#183b56
+#faf7e8
+#d0b200
+
+
+footer section:
+colors:
+ #0d2436
+ #959ead
